@@ -16,8 +16,11 @@ Welcome to the SQL Questions Repository! This repository contains a collection o
 
 ## What is SQL?
 
-SQL stands for Structured Query Language. It is a programming language designed for managing data in relational database management systems (RDBMSs). SQL can be used to perform a variety of operations on database tables, including:
+SQL stands for Structured Query Language. It is a programming language designed for managing data in relational database management systems (RDBMSs). 
 
+![Sql_data_base_with_logo](https://github.com/bhartik021/SQL-50-LeetCode/assets/75694208/09a6e8f5-24f3-461c-a2ab-401e0d8825a7)
+
+SQL can be used to perform a variety of operations on database tables, including:
 * Creating and deleting tables
 * Inserting, updating, and deleting data from tables
 * Querying data from tables
