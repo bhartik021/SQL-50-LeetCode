@@ -2,6 +2,18 @@
 
 Welcome to the SQL Questions Repository! This repository contains a collection of 50 SQL questions inspired by LeetCode, aimed at helping you practice and master SQL queries. Whether you're a beginner looking to learn SQL or an experienced developer honing your skills, these questions cover a wide range of SQL topics.
 
+## Table of Contents
+
+1. [What is SQL?](#what-is-sql)
+2. [What is MySQL?](#what-is-mysql)
+3. [SQL Operations](#sql-operations)
+4. [SQL Clauses](#sql-clauses)
+5. [SQL Aggregation](#sql-aggregation)
+6. [SQL Joins](#sql-joins)
+7. [Other SQL Topics](#other-sql-topics)
+8. [Learning More About SQL](#learning-more-about-sql)
+9. [Conclusion](#conclusion)
+
 ## What is SQL?
 
 SQL stands for Structured Query Language. It is a programming language designed for managing data in relational database management systems (RDBMSs). SQL can be used to perform a variety of operations on database tables, including:
