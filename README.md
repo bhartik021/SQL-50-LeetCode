@@ -34,6 +34,10 @@ SQL can be used to perform a variety of operations on database tables, including
 
 MySQL is a popular open-source RDBMS. It is used by many companies and organizations of all sizes, including Google, Facebook, and Twitter. MySQL is known for its speed, reliability, and ease of use.
 
+<p align="center">
+  <img src="https://github.com/bhartik021/SQL-50-LeetCode/assets/75694208/5f3a82a1-8d10-419a-9c05-7fe56df6a497" height="150px" width="200px">
+</p>
+
 ## SQL Operations
 
 The following are some of the most common SQL operations:
