@@ -18,7 +18,9 @@ Welcome to the SQL Questions Repository! This repository contains a collection o
 
 SQL stands for Structured Query Language. It is a programming language designed for managing data in relational database management systems (RDBMSs). 
 
-![Sql_data_base_with_logo](https://github.com/bhartik021/SQL-50-LeetCode/assets/75694208/09a6e8f5-24f3-461c-a2ab-401e0d8825a7)
+<p align="center">
+  <img src="https://github.com/bhartik021/SQL-50-LeetCode/assets/75694208/09a6e8f5-24f3-461c-a2ab-401e0d8825a7" height="150px" width="200px">
+</p>
 
 SQL can be used to perform a variety of operations on database tables, including:
 * Creating and deleting tables
